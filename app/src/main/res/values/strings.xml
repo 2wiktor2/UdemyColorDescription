@@ -1,4 +1,20 @@
 <resources>
     <string name="app_name">Color Descriptor</string>
-    <string name="button_text_1">button</string>
+    <string name="b_find_description">Определить цвет</string>
+    <string name="tv_show_description">Текст</string>
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжеавый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Голубой</item>
+    </string-array>
+    <string-array name="descriptionOfTemperament">
+        <item>Какое-то описание. Красный</item>
+        <item>Какое-то описание. Оранжеавы</item>
+        <item>Какое-то описание. Желтый</item>
+        <item>Какое-то описание. Зеленый</item>
+        <item>Какое-то описание. Голубой</item>
+    </string-array>
 </resources>
